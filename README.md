@@ -1,21 +1,25 @@
-# Hi there, I'm YoFilip 👋 
 
-## I am a committed, passionate programmer who is constantly developing
+# **Hi there, I'm YoFilip 👋**
 
-### About Me
+## **I am a committed, passionate programmer who is constantly developing**
 
-My name is Filip, and I am 16 years old. Currently, I am a third-year student at a technical high school specializing in programming in Poland. My interests mainly revolve around web development and basketball.
 
-I am a self-learner, and I have acquired most of my knowledge independently by working on web projects. Currently, I possess programming skills in languages such as HTML, CSS, JavaScript, C++, and have a fundamental understanding of Java. I am currently learning React and React Native to further enhance my skills in the field of web application development.
+## ⚡ **About Me**
 
-My two passions, basketball, and programming, serve as significant sources of inspiration for me. I aspire to continue growing in these areas and hope to combine them in the future.
+**My name is Filip, and I am 16 years old. Currently, I am a third-year student at a technical high school specializing in programming in Poland. My interests mainly revolve around web development and basketball.**
+
+**I am a self-learner, and I have acquired most of my knowledge independently by working on web projects. Currently, I possess programming skills in languages such as HTML, CSS, JavaScript, C++, and have a fundamental understanding of Java. I am currently learning React and React Native to further enhance my skills in the field of web application development.**
+
+**My two passions, basketball, and programming, serve as significant sources of inspiration for me. I aspire to continue growing in these areas and hope to combine them in the future.**
 
 > [!NOTE]
-> Presently, I am seeking internship opportunities in Poland, preferably in Sosnowiec or within the Katowice area, from April 29, 2024, to May 29, 2024. If you are interested in collaborating or offering unpaid internships, please feel free to contact me at filipxpp@wp.pl.
+> **Presently, I am seeking internship opportunities in Poland, preferably in Sosnowiec or within the Katowice area, from April 29, 2024, to May 29, 2024. If you are interested in collaborating or offering unpaid internships, please feel free to contact me at filipxpp@wp.pl.**
 
-Thank you for your attention!
+**Thank you for your attention!**
 
-And in a nutshell:
+---
+
+## **And in a nutshell:**
 
 - 👨‍💻 I’m currently working on **YoTerminal**
 - 🌱 I’m currently learning **React, JS**
@@ -25,24 +29,43 @@ And in a nutshell:
 - 📄 Know about my experiences [https://github.com/YoFilip](https://github.com/YoFilip)
 - ⚡ Fun fact **I love web development and basketball**
 
----
+<br>
 
-### Connect with me: 
-[![website](./img/globe-dark.svg)]()
-&nbsp;&nbsp;
+###  👨‍💻  Programming languages
 
-### Languages and Tools:
+<p align='left'>
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" alt="Html" height="50" width="50" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" alt="CSS" height="50" width="50" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/javascript.svg" alt="JS" height="50" width="50" /> 
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/php.svg" alt="php" height="50" width="50" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg" alt="C++ language" height="50" width="50" /> 
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/java.svg" alt="java" height="50" width="50" /> 
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/react.svg" alt="bablubambal" height="50" width="50" /> 
+</p>
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />][webdevplaylist]
-<br />
-<br />
+### 🌎 Web-Development
+#### Front-End:
 
----
+<p align='left'>
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" alt="Html" height="50" width="50" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" alt="CSS" height="50" width="50" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/javascript.svg" alt="JS" height="50" width="50" /> 
+</p>
+
+#### Back-End:
+
+<p align='left'>
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/php.svg" alt="php" height="50" width="50" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/javascript.svg" alt="JS" height="50" width="50" /> 
+</p>
+
+## Ide
+
+
+<p align='left'>
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/62487087dc4f4f5efee637addbc67a16dd374bf6/text%20editors/notepad%2B%2B.png" alt="C++ language" height="50" width="50" /> 
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/62487087dc4f4f5efee637addbc67a16dd374bf6/text%20editors/sublime.svg" alt="python" height="50" width="50" /> 
+</p>
+
+
 
