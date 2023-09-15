@@ -10,7 +10,7 @@ I am a self-learner, and I have acquired most of my knowledge independently by w
 
 My two passions, basketball, and programming, serve as significant sources of inspiration for me. I aspire to continue growing in these areas and hope to combine them in the future.
 
-> [!UWAGA]
+> [!NOTE]
 > Presently, I am seeking internship opportunities in Poland, preferably in Sosnowiec or within the Katowice area, from April 29, 2024, to May 29, 2024. If you are interested in collaborating or offering unpaid internships, please feel free to contact me at filipxpp@wp.pl.
 
 Thank you for your attention!
