@@ -4,7 +4,18 @@
 
 ### About Me
 
-Tekst
+My name is Filip, and I am 16 years old. Currently, I am a third-year student at a technical high school specializing in programming in Poland. My interests mainly revolve around web development and basketball.
+
+I am a self-learner, and I have acquired most of my knowledge independently by working on web projects. Currently, I possess programming skills in languages such as HTML, CSS, JavaScript, C++, and have a fundamental understanding of Java. I am currently learning React and React Native to further enhance my skills in the field of web application development.
+
+My two passions, basketball, and programming, serve as significant sources of inspiration for me. I aspire to continue growing in these areas and hope to combine them in the future.
+
+@@ Presently, I am seeking internship opportunities in Poland, preferably in Sosnowiec or within the Katowice area, from April 29, 2024, to May 29, 2024. If you are interested in collaborating or offering unpaid internships, please feel free to contact me at filipxpp@wp.pl. @@
+
+
+Thank you for your attention!
+
+And in a nutshell:
 
 - 👨‍💻 I’m currently working on **YoTerminal**
 - 🌱 I’m currently learning **React, JS**
