@@ -13,10 +13,6 @@ My two passions, basketball, and programming, serve as significant sources of in
 > [!WARNING]
 > Presently, I am seeking internship opportunities in Poland, preferably in Sosnowiec or within the Katowice area, from April 29, 2024, to May 29, 2024. If you are interested in collaborating or offering unpaid internships, please feel free to contact me at filipxpp@wp.pl.
 
-> **Warning**
-
-> **Note**
-
 Thank you for your attention!
 
 And in a nutshell:
