@@ -21,10 +21,10 @@
 
 ## **And in a nutshell:**
 
-- 👨‍💻 I’m currently working on **YoTerminal**
+- 👨‍💻 I’m currently working on **DocuMentor**
 - 🌱 I’m currently learning **React, JS**
 - 👨‍💻 All of my projects are available at [https://github.com/YoFilip](https://github.com/YoFilip)
-- 💬 Ask me about **HTML,CSS,JS**
+- 💬 Ask me about **HTML,CSS,JS,React,PHP and MySQL**
 - 📫 How to reach me **filipxpp@wp.pl**
 - 📄 Know about my experiences [https://github.com/YoFilip](https://github.com/YoFilip)
 - ⚡ Fun fact **I love web development and basketball**
