@@ -12,7 +12,7 @@
 
 **My two passions, basketball, and programming, serve as significant sources of inspiration for me. I aspire to continue growing in these areas and hope to combine them in the future.**
 
-> [!NOTE]
+> [!IMPORTANT] 
 > I am currently seeking employment opportunities for the summer period, with a keen interest in web development roles. My preferred locations are Sosnowiec or the Katowice area, though I am also open to online work. I am available from May 29th to August 13th. If you are interested in collaboration or have openings related to web development, please feel free to contact me at: swiatek.filip@wp.pl.
 
 **Thank you for your attention!**
