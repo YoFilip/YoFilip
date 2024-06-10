@@ -25,7 +25,7 @@
 - 🌱 I’m currently learning **React, JS**
 - 👨‍💻 All of my projects are available at [https://github.com/YoFilip](https://github.com/YoFilip)
 - 💬 Ask me about **HTML,CSS,JS,React,PHP and MySQL**
-- 📫 How to reach me **filipxpp@wp.pl**
+- 📫 How to reach me **swiatek.filip@wp.pl**
 - 📄 Know about my experiences [https://github.com/YoFilip](https://github.com/YoFilip)
 - ⚡ Fun fact **I love web development and basketball**
 
