@@ -7,7 +7,7 @@
 ## ⚡ **About Me**
 
 > [!Important] 
-> <a href="./CV-ENG.pdf" download><button>Download CV (English)</button></a> &nbsp; <a href="./CV-PL.pdff" download><button>Pobierz CV (Polski)</button></a>
+> <a href="./CV-ENG.pdf" download><button>Download CV (English)</button></a> &nbsp; <a href="./CV-PL.pdf" download><button>Pobierz CV (Polski)</button></a>
 
 **My name is Filip, and I am 17 years old. Currently, I am a third-year student at a technical high school specializing in programming in Poland. My interests mainly revolve around web development and basketball.**
 
