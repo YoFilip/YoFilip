@@ -17,6 +17,7 @@
 
 **Thank you for your attention!**
 
+## My CV [in English](./cv-eng.pdf) | [in Polish](./cv-pl.pdf)
 ---
 
 ## **And in a nutshell:**
