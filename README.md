@@ -6,6 +6,9 @@
 
 ## ⚡ **About Me**
 
+> [!Important] 
+> <a href="./CV-ENG.pdf" download><button>Download CV (English)</button></a> &nbsp; <a href="./CV-PL.pdff" download><button>Pobierz CV (Polski)</button></a>
+
 **My name is Filip, and I am 17 years old. Currently, I am a third-year student at a technical high school specializing in programming in Poland. My interests mainly revolve around web development and basketball.**
 
 **I am a self-learner, and I have acquired most of my knowledge independently by working on web projects. Currently, I possess programming skills in languages such as HTML, CSS, JavaScript, C++, and have a fundamental understanding of Java. I am currently learning React and React Native to further enhance my skills in the field of web application development.**
@@ -17,7 +20,6 @@
 
 **Thank you for your attention!**
 
-## My CV [in English](./cv-eng.pdf) | [in Polish](./cv-pl.pdf)
 ---
 
 ## **And in a nutshell:**
