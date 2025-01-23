@@ -19,7 +19,7 @@ My interests mainly revolve around technology and sports, especially basketball.
 I am currently seeking employment opportunities, with an interest in various roles, not necessarily related to IT. My preferred locations are Sosnowiec or the Katowice area, though I am also open to remote work. 
 
 > [!Important] 
-> <a href="./SwiatekFilip_CV.pdf" download><button>Download CV (English)</button></a>
+> <a href="./Świątek_Filip.pdf" download><button>Download CV (English)</button></a>
 
 ## 📫 **Contact Me**
 
